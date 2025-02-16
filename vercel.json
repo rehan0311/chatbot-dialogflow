@@ -8,9 +8,7 @@
   ],
   "functions": {
     "app.js": {
-      "includeFiles": [
-        "node_modules/**"
-      ]
+      "includeFiles": "node_modules/**"
     }
   },
   "routes": [
