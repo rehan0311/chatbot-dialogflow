@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "dialogflow": "^0.8.2",
+    "dialogflow": "^1.2.0",
     "dotenv": "^16.4.7",
     "express": "^4.16.4",
     "grpc": "^1.24.11",
